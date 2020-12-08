@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interior Design", "Assembly-CSharp.csproj", "{45320CA3-D392-B357-7C9C-9BDDCAFCFF1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interior Design", "Assembly-CSharp-Editor.csproj", "{1FD070AB-FDE2-D340-B2B7-449E4104A80C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interior Design", "EditorMigrationScripts.csproj", "{06F870EE-87B9-30FA-4287-B44445AF7655}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45320CA3-D392-B357-7C9C-9BDDCAFCFF1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45320CA3-D392-B357-7C9C-9BDDCAFCFF1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45320CA3-D392-B357-7C9C-9BDDCAFCFF1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45320CA3-D392-B357-7C9C-9BDDCAFCFF1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FD070AB-FDE2-D340-B2B7-449E4104A80C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FD070AB-FDE2-D340-B2B7-449E4104A80C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FD070AB-FDE2-D340-B2B7-449E4104A80C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FD070AB-FDE2-D340-B2B7-449E4104A80C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06F870EE-87B9-30FA-4287-B44445AF7655}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06F870EE-87B9-30FA-4287-B44445AF7655}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06F870EE-87B9-30FA-4287-B44445AF7655}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06F870EE-87B9-30FA-4287-B44445AF7655}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

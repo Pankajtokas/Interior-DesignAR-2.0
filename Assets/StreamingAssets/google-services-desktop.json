@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "15921955534",
+    "firebase_url": "https://interiordesign-ee80a.firebaseio.com",
+    "project_id": "interiordesign-ee80a",
+    "storage_bucket": "interiordesign-ee80a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15921955534:android:461a6080332ae3c65b469f",
+        "android_client_info": {
+          "package_name": "com.Company.ARroomie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15921955534-84igfagm78tklrnjp40i7dldm6ea13rj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGvJpsDr3BWqEedcTscd9wxsRmj9YBMqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15921955534-84igfagm78tklrnjp40i7dldm6ea13rj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

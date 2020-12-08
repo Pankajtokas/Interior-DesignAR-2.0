@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://interiordesign-ee80a.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">15921955534</string>
+  <string name="google_storage_bucket" translatable="false">interiordesign-ee80a.appspot.com</string>
+  <string name="project_id" translatable="false">interiordesign-ee80a</string>
+  <string name="google_api_key" translatable="false">AIzaSyDGvJpsDr3BWqEedcTscd9wxsRmj9YBMqw</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDGvJpsDr3BWqEedcTscd9wxsRmj9YBMqw</string>
+  <string name="google_app_id" translatable="false">1:15921955534:android:461a6080332ae3c65b469f</string>
+  <string name="default_web_client_id" translatable="false">15921955534-84igfagm78tklrnjp40i7dldm6ea13rj.apps.googleusercontent.com</string>
+</resources>

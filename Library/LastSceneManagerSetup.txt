@@ -1,0 +1,43 @@
+sceneSetups:
+- path: Assets/scenes/iDesign Home.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/scenes/Creators.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Login.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/scenes/Register.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/scenes/panel.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/scenes/accountUI/profile.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/scenes/couch.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/scenes/Armchair.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/scenes/Barchair.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/scenes/beanbag.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/scenes/BEANBAG CLASSIFY.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/scenes/beanbag1.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/scenes/Creators2.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/scenes/BeanBagList.unity
+  isLoaded: 0
+  isActive: 0
